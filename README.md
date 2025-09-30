@@ -7,7 +7,7 @@ M.A. Politikwissenschaften (UZH) | aktuell B.Sc. Data Science & Artificial Intel
 
 ## Projekte (Auswahl)
 
-- [Masterarbeit: Nostalgic Deprivation, Opportunities, Social Mobility & Far-Right Support](https://github.com/kimonarvanitis/master-thesis-resilience)  
+- [Masterarbeit: Nostalgic Deprivation, Opportunities, Social Mobility & Far-Right Support](https://github.com/kimonarvanitis/uzh_master-thesis_far_right)  
   Untersuchung des Zusammenhangs zwischen Nostalgie, Zukunftserwartungen, sozialer Mobilität und Unterstützung rechtspopulistischer Parteien.  
 
 ---
