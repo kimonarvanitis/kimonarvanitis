@@ -1,16 +1,33 @@
-## Hi there 👋
+# Willkommen auf meinem Profil
 
-<!--
-**kimonarvanitis/kimonarvanitis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Kimon A. Arvanitis**  
+M.A. Politikwissenschaften (UZH) | aktuell B.Sc. Data Science & Artificial Intelligence (FHNW)  
 
-Here are some ideas to get you started:
+Fokus: Resilienz, Krisen- & Risikomanagement, Security Analytics  
+Leidenschaft: Data Science für gesellschaftlich relevante Themen  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Projekte (Auswahl)
+
+- [Masterarbeit: Nostalgic Deprivation, Opportunities, Social Mobility & Far-Right Support](https://github.com/deinusername/master-thesis-resilience)  
+  Untersuchung des Zusammenhangs zwischen Nostalgie, Zukunftserwartungen, sozialer Mobilität und Unterstützung rechtspopulistischer Parteien.  
+
+---
+
+## Skills & Tools
+
+- Programmiersprachen: Python, R, SQL  
+- Methoden: Statistik, Umfragen, Machine Learning, Matching-Analysen  
+- Tools: GitHub, RStudio, PyCharm, Docker (Basics), Bash  
+
+---
+
+## Kontakt
+
+- LinkedIn: https://www.linkedin.com/in/arvanitiskimon/
+- Standort: Schweiz  
+
+---
+
+Dieses Profil ist im Aufbau – neue Projekte kommen laufend dazu.
