@@ -2,30 +2,28 @@
 
 **Kimon A. Arvanitis**  
 M.A. Politikwissenschaften (UZH) | aktuell B.Sc. Data Science & Artificial Intelligence (FHNW)  
-
-Fokus: Resilienz, Krisen- & Risikomanagement, Security Analytics  
-Leidenschaft: Data Science für gesellschaftlich relevante Themen  
-
+ 
 ---
 
 ## Projekte (Auswahl)
 
-- [Masterarbeit: Nostalgic Deprivation, Opportunities, Social Mobility & Far-Right Support](https://github.com/deinusername/master-thesis-resilience)  
+- [Masterarbeit: Nostalgic Deprivation, Opportunities, Social Mobility & Far-Right Support](https://github.com/kimonarvanitis/master-thesis-resilience)  
   Untersuchung des Zusammenhangs zwischen Nostalgie, Zukunftserwartungen, sozialer Mobilität und Unterstützung rechtspopulistischer Parteien.  
 
 ---
 
 ## Skills & Tools
 
-- Programmiersprachen: Python, R, SQL  
-- Methoden: Statistik, Umfragen, Machine Learning, Matching-Analysen  
-- Tools: GitHub, RStudio, PyCharm, Docker (Basics), Bash  
+- **Programmiersprachen:** Python, R, SQL  
+- **Analyse:** Statistik, Survey-Methoden, Machine Learning (Grundlagen)  
+- **Tools:** GitHub, RStudio, PyCharm, Bash/WSL  
+- **Berufserfahrung:** Krisen- und Risikomanagement, Sicherheits- und Resilienzforschung, Risikokommunikation, Projektleitung  
 
 ---
 
 ## Kontakt
 
-- LinkedIn: https://www.linkedin.com/in/arvanitiskimon/
+- [LinkedIn](https://www.linkedin.com/in/arvanitiskimon/)
 - Standort: Schweiz  
 
 ---
