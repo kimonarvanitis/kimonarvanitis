@@ -1,6 +1,6 @@
 # Willkommen auf meinem Profil
 
-**Kimon A. Arvanitis**  
+**Kimon Arvanitis**  
 M.A. Politikwissenschaften (UZH) | aktuell B.Sc. Data Science & Artificial Intelligence (FHNW)  
  
 ---
